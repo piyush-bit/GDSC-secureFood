@@ -1,4 +1,4 @@
-# Surplus Food Distribution Frontend
+# SecureFood-Surplus Food Distribution Frontend
 
 This repository contains the frontend code for the Surplus Food Distribution platform.
 
