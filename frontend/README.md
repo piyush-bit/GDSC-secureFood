@@ -1,8 +1,10 @@
-# React + Vite
+# Surplus Food Distribution Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend code for the Surplus Food Distribution platform.
 
-Currently, two official plugins are available:
+## Work in Progress
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚠️ **This project is currently under active development.**
+
+Please note that this README is a placeholder and will be updated with comprehensive documentation once the project reaches a stable state. The current state of the project is considered a work in progress, and features are subject to change.
+
