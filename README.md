@@ -1,4 +1,4 @@
-# Surplus Food Distribution Platform
+# SecureFood-Surplus Food Distribution Platform
 
 Welcome to the Surplus Food Distribution Platform, a project aimed at minimizing food waste by connecting surplus food providers with those in need through an innovative and sustainable solution.
 
