@@ -1,85 +1,85 @@
 # SecureFood-Surplus Food Distribution Platform
 
-Welcome to the Surplus Food Distribution Platform, a project aimed at minimizing food waste by connecting surplus food providers with those in need through an innovative and sustainable solution.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+# Secure Food Platform
 
 ## Overview
 
-The Surplus Food Distribution Platform is a web application that facilitates the efficient redistribution of surplus food from various sources, including restaurants, event managers, grocery stores, and more. The platform incorporates a subscription model for general food access and dynamic pricing for premium or delicacy items, ensuring affordability and choice for a diverse user base.
+Welcome to Secure Food – an innovative open-source platform dedicated to eradicating food insecurity. Our mission is to bridge the gap between surplus food sources and those in need, fostering a community-driven approach to secure food for all.
+
+## Table of Contents
+
+- [How It Works](#how-it-works)
+- [Key Features](#key-features)
+- [Impact](#impact)
+- [MVP-12&3](#mvp-123)
+- [User Flow](#user-flow)
+- [Features](#features)
+
+## How It Works
+
+NGOs, businesses, and individuals can easily register on Secure Food. Businesses can flag surplus food, notifying registered NGOs in the region. The platform also offers a unique feature to raise volunteer opportunities, encouraging active community involvement.
+
+## Key Features
+
+1. **Surplus Food Flagging:** Businesses can effortlessly notify NGOs about surplus food, facilitating swift distribution.
+2. **NGO Collaboration:** NGOs can efficiently connect with surplus food sources, ensuring timely access to resources for the communities they serve.
+3. **Volunteer Engagement:** Individuals and groups can discover and participate in volunteer opportunities, creating a stronger sense of community involvement.
+
+## Impact
+
+By marrying technology with a purpose-driven approach, Secure Food strives to make a tangible impact:
+
+- **Reduce Food Waste:** Combat food waste at its source by connecting surplus food with those who can utilize it.
+- **Support Local Communities:** Strengthen local communities by ensuring equitable access to food resources.
+- **Build Resilience:** Create a more resilient and secure food network that adapts to the evolving needs of our society.
+
+## MVP-12&3
+
+Our MVP (Minimum Viable Product) focuses on the user flow outlined below to provide a seamless and purposeful experience, connecting surplus food sources with NGOs and volunteers while encouraging active community participation.
+
+## User Flow
+
+1. **User Registration:**
+    - NGOs, businesses, and volunteers register on the Secure Food platform.
+    - Complete profile information, including organization details (for NGOs and businesses) or individual details (for volunteers).
+2. **Dashboard:**
+    - Personalized dashboard for NGOs, businesses, and volunteers.
+    - Options to flag surplus food, view volunteer opportunities, and collaborate with other organizations.
+3. **Flag Surplus Food (Businesses):**
+    - Businesses log in and access the surplus food flagging feature.
+    - Enter details about the surplus food, including type, quantity, and location.
+    - Confirm and submit information, triggering notifications to registered NGOs in the specific region.
+4. **NGO Collaboration:**
+    - NGOs receive real-time notifications about flagged surplus food.
+    - NGOs review information, express interest, and coordinate with businesses for collection or distribution.
+5. **Raise Volunteer Opportunities (NGOs and Businesses):**
+    - NGOs and businesses can create volunteer opportunities.
+    - Specify details such as event date, time, location, and tasks.
+    - Volunteers receive notifications about upcoming opportunities.
+6. **Discover Volunteer Opportunities (Volunteers):**
+    - Volunteers explore available volunteer opportunities.
+    - Review details, express interest, and confirm participation.
+7. **Communication Hub:**
+    - Secure messaging system for NGOs, businesses, and volunteers to communicate efficiently.
+8. **Event Participation (Volunteers):**
+    - Volunteers participate in scheduled events, contributing to various tasks as outlined by NGOs or businesses.
+9. **Track and Reporting:**
+    - Track the progress of flagged surplus food, volunteer participation, and overall impact through a reporting system.
+    - Generate reports for transparency and impact assessment.
+10. **Community Engagement:**
+    - Social features to share success stories and photos from events, fostering a sense of community among users.
+11. **Settings and Profile Management:**
+    - Users can manage account settings, update profiles, and customize notification preferences.
+12. **Logout:**
+    - Users can securely log out when finished.
+
 
 ## Features
 
-- **Subscription Model:**
-  - Inclusive subscription plans for individuals facing food insecurity.
-  - Flexible subscription durations (weekly, monthly).
-  - Affordable and nutritious meal options.
+- Surplus Food Flagging
+- NGO Collaboration
+- Volunteer Engagement
+- Real-time Notifications
+- Reporting System
+- Community Engagement
 
-- **Dynamic Pricing for Delicacies:**
-  - Variable pricing for premium or specialty food items.
-  - Real-time adjustment based on demand and availability.
-  - Choice and variety for users seeking unique culinary experiences.
-
-- **Comprehensive Platform:**
-  - User-friendly web and mobile interface.
-  - Integration with various surplus food providers.
-  - Advanced logistics for efficient food collection and delivery.
-
-- **Data Analytics and Machine Learning:**
-  - Insights derived from user behavior and consumption patterns.
-  - Machine learning models for demand forecasting and route optimization.
-
-## Project Structure
-
-The project follows a structured organization to maintain clarity and scalability. Key directories include:
-
-- `/components`: Presentational components.
-- `/containers`: Container components for data handling.
-- `/services`: Utility functions for API interactions.
-- `/pages`: Components representing different views.
-- `/models`: MongoDB models for the backend.
-- `/utils`: General utility functions.
-- `/assets`: Static assets (images, styles, etc.).
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/surplus-food-distribution.git
-   cd surplus-food-distribution/src
-   
-  2 . **Install Dependencies**
-  ```bash
-  npm install
-  npm start
-  ```
-
-
-  3.**Open in Browser:**
-  Visit http://localhost:3000 in your web browser.
-
-##Technologies Used
-React.js for the frontend.
-Node.js for the backend.
-MongoDB for database management.
-Express.js for the backend server.
-Mongoose for MongoDB object modeling.
-Other technologies mentioned in the Technologies Used section.
-
-##Contributing
-Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them in advance.
-
-License
-This project is licensed under the MIT License.
-
-Feel free to update this README with more detailed information about your project, installation instructions, usage guidelines, and any other relevant details. Good luck with your Surplus Food Distribution Platform!
